@@ -1,4 +1,4 @@
--👋 Hi, I’m @vikask0101, a software engineer with a strong background in backend development using Laravel and MySQL.
+-👋 Hi, I’m @IAmVikasG, a software engineer with a strong background in backend development using Laravel and MySQL.
 
 -👀 I’m interested in web development, software architecture, and learning new technologies to broaden my skill set.
 
